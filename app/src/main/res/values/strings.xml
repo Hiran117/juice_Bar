@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">JuiceWorld</string>
+    <string name="head">JUICE WORLD</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="b1">Login</string>
+    <string name="b2">SignUp</string>
+    <string name="name">Full Name</string>
+    <string name="pno">Phone Number</string>
+    <string name="gendre">Gender</string>
+    <string name="add">Address</string>
+    <string name="myp">My Profile</string>
+    <string name="fname">L.G.K James</string>
+    <string name="addre">96/5 , Dalugama</string>
+    <string name="gend">Male</string>
+    <string name="emai">james@gmail.com</string>
+    <string name="pnum">+9475896932</string>
+    <string name="b3">Edit</string>
+    <string name="b4">Save</string>
+</resources>
