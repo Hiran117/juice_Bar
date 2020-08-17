@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Home</string>
+    <string name="juice">Juices</string>
+    <string name="Mockta">Mocktails</string>
+    <string name="Dess">Desserts</string>
+    <string name="PartyRe">Party Reservation</string>
+    <string name="scbutton">Show Cart</string>
+    <string name="wlj">watermelon Juice</string>
+    <string name="aj">Apple Juice</string>
+    <string name="mj">Mango Juice</string>
+    <string name="price">Price :-</string>
+    <string name="plusbutton">+</string>
+    <string name="minubutton">-</string>
+    <string name="addcarbutt">ADD TO CART</string>
+    <string name="val1">3</string>
+    <string name="val2">2</string>
+    <string name="price1">300 LKR</string>
+    <string name="price2">400 LKR</string>
+    <string name="price3">500 LKR</string>
+    <string name="price4">600 LKR</string>
+    <string name="icecream">Fruit Salad with Ice Cream</string>
+    <string name="jelly">fruit salad with jelly and custard</string>
+    <string name="mix">mixed fruit salad</string>
+    <string name="smock">Strawberry mocktail</string>
+    <string name="mmock">Mango mocktail</string>
+    <string name="ormock">Orange mocktail</string>
+    <string name="scart">Shopping Cart</string>
+    <string name="t1">Apple Juice</string>
+    <string name="t2">Mango juice</string>
+    <string name="t3">Orange mocktail</string>
+    <string name="t4">Mixed fruit salad</string>
+    <string name="t5">Total Goods.
+    </string>
+    <string name="tot">1200 LKR</string>
+    <string name="buttc1">Empty Cart</string>
+    <string name="buttc2">Update Cart</string>
+    <string name="buttc3">Checkout</string>
+</resources>
