@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PartyReservation</string>
+    <string name="header">Celebrate Your Amazing Events with JUICE WORLD</string>
+    <string name="header1">Request For Booking</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="pasize">Party Size</string>
+    <string name="rad1">Small (1-10 People)</string>
+    <string name="rad2">Medium(10-20 People)</string>
+    <string name="rad3">Large (more than 20 People)</string>
+    <string name="button">CHOOSE A HALL</string>
+    <string name="habutton">Choose Hall A</string>
+    <string name="hbbutton">Choose Hall B</string>
+    <string name="contac">Contact Number</string>
+    <string name="conButt">Confirm</string>
+    <string name="requestconfirm">Booking Request Confirmed</string>
+    <string name="conDate">Date - 19/08/2020</string>
+    <string name="conTime">Time - 05.00 P.M - 06.00 P.M</string>
+    <string name="ConPSize">Party Size - Small(1-10 People)</string>
+    <string name="conHall">Hall - Hall A</string>
+    <string name="conNumber">Contact Number - +94711717171</string>
+    <string name="finalText">Juice World Will Contact You Soon</string>
+    <string name="homeButton">Home</string>
+</resources>
