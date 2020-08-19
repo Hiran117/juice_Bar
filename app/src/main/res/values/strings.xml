@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Delivery</string>
+    <string name="DeliveryDetails">Delivery Details</string>
+    <string name="FirstName">First Name</string>
+    <string name="LastName">Last Name</string>
+    <string name="Address">Address</string>
+    <string name="contact">Contact No</string>
+    <string name="email">Email</string>
+    <string name="setDeliveryTime">Set Delivery Time</string>
+    <string name="click">Now</string>
+    <string name="click1">Later</string>
+    <string name="setDate">date*DD/MM</string>
+    <string name="setTime">Time*05.35</string>
+    <string name="saveDetails">SAVE AND CONTINUE</string>
+    <string name="topic">Delivery Confirmation</string>
+    <string name="GoodsValue">Value of Purchased Goods</string>
+    <string name="GoodsPrice">RS. 2500.00</string>
+    <string name="Discount">Discount</string>
+    <string name="disValue">Rs.400.00</string>
+    <string name="SubTotal">Sub Total</string>
+    <string name="SubTotalValue">Rs. 2100.00</string>
+    <string name="DeliveryCharge">Delivery Charge</string>
+    <string name="Delivery">RS. 100.00</string>
+    <string name="GrandTotal">Grand Total</string>
+    <string name="totalValue">RS. 2200.00</string>
+    <string name="check">DELIVERY CONFIRM</string>
+    <string name="back">CANCLE</string>
+</resources>
