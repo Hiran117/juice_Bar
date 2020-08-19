@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Payment</string>
+    <string name="topic">Payment Details</string>
+    <string name="CardType">Card Type</string>
+    <string name="butt">Credit</string>
+    <string name="butt1">Debit</string>
+    <string name="click2">Card Number</string>
+    <string name="Exp">Expiry Date</string>
+    <string name="Se">Security Code</string>
+    <string name="cdN">Card Name</string>
+    <string name="save">SAVE AND CONTINUE</string>
+    <string name="edit">EDIT</string>
+    <string name="pay">PAY</string>
+    <string name="back">CANCLE</string>
+</resources>
