@@ -13,28 +13,9 @@
         android:theme="@style/AppTheme">
         <activity android:name=".activities.UpdateReservation"></activity>
         <activity android:name=".activities.ReservationActivity" />
-        <activity android:name=".activities.PaymentMethodScreen" />
-        <activity android:name=".activities.DeliveryInformationScreen" />
-        <activity android:name=".activities.CheckoutScreen" />
-        <activity android:name=".activities.AdminScreen" />
         <activity android:name=".activities.ReservationConfirmScreen" />
         <activity android:name=".activities.PickHallScreen" />
         <activity android:name=".activities.ReservationScreen" />
-        <activity android:name=".activities.ShoppingCartScreen" />
-        <activity android:name=".activities.DessertsScreen" />
-        <activity android:name=".activities.MocktailsScreen" />
-        <activity android:name=".activities.JuicesScreen" />
-        <activity android:name=".activities.SplashScreen">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
-        <activity android:name=".activities.HomeScreen" />
-        <activity android:name=".activities.ProfileScreen" />
-        <activity android:name=".activities.RegisterScreen" />
-        <activity android:name=".activities.LoginScreen" />
     </application>
 
 </manifest>
