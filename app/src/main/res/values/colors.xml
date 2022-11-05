@@ -4,4 +4,8 @@
     <color name="colorPrimaryDark">#B71C1c</color>
     <color name="colorAccent">#03DAC5</color>
     <color name ="colorbackground">#FFCDD2</color>
+    <color name ="white">#FFFFFF</color>
+    <color name="ash">#F1F1F1</color>
+<!--    <color name="orange">#FE724C</color>-->
+    <color name="black">#000000</color>
 </resources>
