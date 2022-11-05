@@ -1,9 +1,13 @@
 package com.example.home.views;
 
 import android.content.Context;
+<<<<<<< HEAD
 import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.TextView;
+=======
+import android.view.View;
+>>>>>>> origin/master
 
 import com.example.home.R;
 import com.google.android.material.snackbar.Snackbar;

@@ -1,12 +1,20 @@
 package com.example.home.activities;
 
+<<<<<<< HEAD
 import androidx.appcompat.app.AppCompatActivity;
 
+=======
+>>>>>>> origin/master
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
 
+<<<<<<< HEAD
+=======
+import androidx.appcompat.app.AppCompatActivity;
+
+>>>>>>> origin/master
 import com.example.home.R;
 
 public class CheckoutScreen extends AppCompatActivity
@@ -80,7 +88,11 @@ public class CheckoutScreen extends AppCompatActivity
     {
         //this method will be triggered when the user press the confirm button
 
+<<<<<<< HEAD
         Intent intent = new Intent(CheckoutScreen.this,DeliveryInformationScreen.class);
+=======
+        Intent intent = new Intent(CheckoutScreen.this, DeliveryInformationScreen.class);
+>>>>>>> origin/master
         //adding all the calculated values to the intent object to get access in the DeliveryInformationScreen
         intent.putExtra("GoodPrice",total);
         intent.putExtra("Discount",discount);

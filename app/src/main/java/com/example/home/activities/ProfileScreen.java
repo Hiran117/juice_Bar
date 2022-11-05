@@ -1,15 +1,19 @@
 package com.example.home.activities;
 
+<<<<<<< HEAD
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
+=======
+>>>>>>> origin/master
 import android.app.AlertDialog;
 import android.app.ProgressDialog;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
+<<<<<<< HEAD
 import android.util.Log;
 import android.util.Patterns;
 import android.view.View;
@@ -17,6 +21,17 @@ import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.Toast;
 
+=======
+import android.util.Patterns;
+import android.view.View;
+import android.widget.EditText;
+import android.widget.Toast;
+
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
+import androidx.appcompat.app.AppCompatActivity;
+
+>>>>>>> origin/master
 import com.bumptech.glide.Glide;
 import com.example.home.Models.User;
 import com.example.home.R;
@@ -353,7 +368,11 @@ public class ProfileScreen extends AppCompatActivity {
                                 //set the id as -99 to represent that
                                 SharedPrefManager.setLoginUserId(ProfileScreen.this,-99);
                                 //navigate the user into the LoginScreen agin
+<<<<<<< HEAD
                                 Intent intent = new Intent(ProfileScreen.this,LoginScreen.class);
+=======
+                                Intent intent = new Intent(ProfileScreen.this, LoginScreen.class);
+>>>>>>> origin/master
                                 intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK | Intent.FLAG_ACTIVITY_NEW_TASK);
                                 startActivity(intent);
                             }

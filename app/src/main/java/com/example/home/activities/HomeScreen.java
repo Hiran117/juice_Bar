@@ -1,14 +1,23 @@
 package com.example.home.activities;
 
+<<<<<<< HEAD
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
+=======
+>>>>>>> origin/master
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Toast;
 
+<<<<<<< HEAD
+=======
+import androidx.annotation.NonNull;
+import androidx.appcompat.app.AppCompatActivity;
+
+>>>>>>> origin/master
 import com.example.home.R;
 import com.example.home.config.SharedPrefManager;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
@@ -98,7 +107,11 @@ public class HomeScreen extends AppCompatActivity {
     {
         //this method will be triggered when the user select the Reservations
         //and will be visible the ReservationScreen
+<<<<<<< HEAD
         Intent intent = new Intent(HomeScreen.this,ReservationScreen.class);
+=======
+        Intent intent = new Intent(HomeScreen.this, ReservationScreen.class);
+>>>>>>> origin/master
         startActivity(intent);
     }
 

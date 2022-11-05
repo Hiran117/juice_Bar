@@ -7,6 +7,7 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
+<<<<<<< HEAD
 import android.widget.Toast;
 
 import androidx.annotation.NonNull;
@@ -21,6 +22,15 @@ import com.example.home.config.SharedPrefManager;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
+=======
+
+import androidx.annotation.NonNull;
+import androidx.recyclerview.widget.RecyclerView;
+
+import com.example.home.Models.Reservation;
+import com.example.home.R;
+import com.example.home.activities.ReservationActivity;
+>>>>>>> origin/master
 
 import java.util.ArrayList;
 

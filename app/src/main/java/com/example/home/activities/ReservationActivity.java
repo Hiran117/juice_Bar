@@ -1,11 +1,14 @@
 package com.example.home.activities;
 
+<<<<<<< HEAD
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+=======
+>>>>>>> origin/master
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.app.ProgressDialog;
@@ -14,7 +17,16 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.widget.Toast;
 
+<<<<<<< HEAD
 import com.example.home.Models.Delivery;
+=======
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.recyclerview.widget.LinearLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
+
+>>>>>>> origin/master
 import com.example.home.Models.Reservation;
 import com.example.home.R;
 import com.example.home.adapter.ReservationAdapter;

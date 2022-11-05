@@ -1,10 +1,13 @@
 package com.example.home.activities;
 
+<<<<<<< HEAD
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.app.Dialog;
+=======
+>>>>>>> origin/master
 import android.app.ProgressDialog;
 import android.content.Intent;
 import android.net.Uri;
@@ -12,6 +15,7 @@ import android.os.Bundle;
 import android.util.Patterns;
 import android.view.View;
 import android.widget.EditText;
+<<<<<<< HEAD
 import android.widget.ImageView;
 import android.widget.ProgressBar;
 import android.widget.Toast;
@@ -22,11 +26,26 @@ import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.android.gms.tasks.Task;
+=======
+import android.widget.Toast;
+
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
+import androidx.appcompat.app.AppCompatActivity;
+
+import com.example.home.Models.User;
+import com.example.home.R;
+import com.google.android.gms.tasks.OnFailureListener;
+import com.google.android.gms.tasks.OnSuccessListener;
+>>>>>>> origin/master
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.storage.FirebaseStorage;
+<<<<<<< HEAD
 import com.google.firebase.storage.OnProgressListener;
+=======
+>>>>>>> origin/master
 import com.google.firebase.storage.StorageReference;
 import com.google.firebase.storage.UploadTask;
 
@@ -238,7 +257,11 @@ public class RegisterScreen extends AppCompatActivity {
                     //successfully registered the user
                     showToast("Successfully Registered!");
                     //the user will be navigated to the LoginScreen
+<<<<<<< HEAD
                     Intent intent = new Intent(RegisterScreen.this,LoginScreen.class);
+=======
+                    Intent intent = new Intent(RegisterScreen.this, LoginScreen.class);
+>>>>>>> origin/master
                     startActivity(intent);
                     finish();
                 }

@@ -1,8 +1,11 @@
 package com.example.home.activities;
 
+<<<<<<< HEAD
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
+=======
+>>>>>>> origin/master
 import android.app.ProgressDialog;
 import android.content.Intent;
 import android.os.Bundle;
@@ -11,6 +14,12 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.Toast;
 
+<<<<<<< HEAD
+=======
+import androidx.annotation.NonNull;
+import androidx.appcompat.app.AppCompatActivity;
+
+>>>>>>> origin/master
 import com.example.home.Models.User;
 import com.example.home.R;
 import com.example.home.config.SharedPrefManager;
@@ -83,7 +92,11 @@ public class LoginScreen extends AppCompatActivity {
             //save the user id in the shared preferences
             SharedPrefManager.setLoginUserId(LoginScreen.this,100);
             //go to the AdminScreen
+<<<<<<< HEAD
             Intent intent = new Intent(LoginScreen.this,AdminScreen.class);
+=======
+            Intent intent = new Intent(LoginScreen.this, AdminScreen.class);
+>>>>>>> origin/master
             intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK | Intent.FLAG_ACTIVITY_NEW_TASK);
             startActivity(intent);
             finish();
@@ -122,7 +135,11 @@ public class LoginScreen extends AppCompatActivity {
                         //login is success
                         Toast.makeText(LoginScreen.this, "Login Success!", Toast.LENGTH_SHORT).show();
                         //home screen will be shown
+<<<<<<< HEAD
                         Intent intent = new Intent(LoginScreen.this,HomeScreen.class);
+=======
+                        Intent intent = new Intent(LoginScreen.this, HomeScreen.class);
+>>>>>>> origin/master
                         intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK | Intent.FLAG_ACTIVITY_NEW_TASK);
                         startActivity(intent);
                         finish();

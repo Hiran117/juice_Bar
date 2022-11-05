@@ -1,12 +1,20 @@
 package com.example.home.activities;
 
+<<<<<<< HEAD
 import androidx.appcompat.app.AppCompatActivity;
 
+=======
+>>>>>>> origin/master
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
 
+<<<<<<< HEAD
+=======
+import androidx.appcompat.app.AppCompatActivity;
+
+>>>>>>> origin/master
 import com.example.home.R;
 
 public class ReservationConfirmScreen extends AppCompatActivity {

@@ -1,7 +1,10 @@
 package com.example.home.activities;
 
+<<<<<<< HEAD
 import androidx.appcompat.app.AppCompatActivity;
 
+=======
+>>>>>>> origin/master
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
@@ -9,6 +12,11 @@ import android.widget.EditText;
 import android.widget.RadioButton;
 import android.widget.Toast;
 
+<<<<<<< HEAD
+=======
+import androidx.appcompat.app.AppCompatActivity;
+
+>>>>>>> origin/master
 import com.example.home.R;
 
 public class ReservationScreen extends AppCompatActivity {
@@ -48,7 +56,11 @@ public class ReservationScreen extends AppCompatActivity {
         }
 
         //create a new intent object
+<<<<<<< HEAD
         Intent intent = new Intent(ReservationScreen.this,PickHallScreen.class);
+=======
+        Intent intent = new Intent(ReservationScreen.this, PickHallScreen.class);
+>>>>>>> origin/master
         //set the date and time in the intent object
         intent.putExtra("Date",dataT);
         intent.putExtra("Time",timeT);

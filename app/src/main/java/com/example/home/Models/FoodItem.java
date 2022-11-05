@@ -1,7 +1,10 @@
 package com.example.home.Models;
 
+<<<<<<< HEAD
 import android.graphics.drawable.Drawable;
 
+=======
+>>>>>>> origin/master
 import java.io.Serializable;
 
 
